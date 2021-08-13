@@ -7,14 +7,15 @@
 		- Integración de Linux como kernel  
 		para GNU (GNU/Linux)
 	- Definición de conceptos clave
-		- Definición de kernel
 		- Definición de la ideología *open-source*
+			- Mucho énfasis en esto para adoctrinarlos  
+			ideológicamente
 		- Definición de distribuciones/distros
 			- Distros y familias de distros  
 			principales
 
-2. **Instalación de Ubuntu**
-	- ¿Por qué Ubuntu?
+2. **Instalación de Ubuntu-based**
+	- ¿Por qué Ubuntu-based?
 		- Prominencia en la industria
 		- Ease-of-use
 	- Requisitos mínimos y recomendados
@@ -39,18 +40,20 @@
 	- Sistema de usuarios en Linux
 		- Usuario root
 	- Estructura de directorios en Linux y uso de cada uno
-		- bin
-			- sbin
-		- boot
-			- NO TOCAR
-		- media/mnt
-			- Tus drives se montan aquí
-		- snap
-		- tmp
-		- usr
-		- home
-			- .config
-	- Uso de la Terminal
+		- Passing mention de la función de los siguientes
+			- bin
+				- sbin
+			- boot
+				- NO TOCAR
+			- media/mnt
+				- Tus drives se montan aquí
+			- snap
+			- tmp
+			- usr
+		- Énfasis en el home directory y en .config
+			- home
+				- .config
+	- Uso de la Terminal **nota: ya hay un curso de Terminal de ITAM4Code**
 		- The all-powerful sudo
 		- Navegación del sistema
 			- ls/la
@@ -58,7 +61,6 @@
 			- mkdir
 			- mv
 			- wget
-			- tar
 			- cat
 			- grep
 		- Task Management
@@ -80,7 +82,7 @@
 			- Audacity
 			- Neofetch
 			- Visual Studio Code
-		- Uso de Git
+		- Uso de Git **nota ya hay un curso de Git de ITAM4Code**
 			- ¿Qué es Git?
 			- Crear, committear, subir,  
 			clonar, mergear y jalar repositorios
