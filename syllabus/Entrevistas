@@ -1,0 +1,27 @@
+# Comentarios y recomendaciones destacables de entrevistas a recién cambiados
+
+## Hincapié en los beneficios
+Algunos de los beneficios más citados fueron:
+- Diferencia en performance. Más RAM disponible, posibilidad de revivir hardware viejo, etc...
+- Package Managers. Mucho más cómodo que estar buscando instaladores y que todo tenga su propia manera de actualizarse
+- No más actualizaciones forzadas, blue screens y tiempo muerto
+- Aspecto ecológico de revivir hardware que ya no servía
+- Gratis y _libre_. En específico para alguien que está armando una computadora y está en posición de comprar una licencia de Windows
+- Una alternativa a Windows 11
+- Tomar comodidad con la terminal es una habilidad que paga buenos dividendos
+- Usar linux (y software libre en general) es muy disfrutable por la comunidad
+
+
+## Puntos de fricción
+- Usar live environment para confirmar que los drivers están funcionando bien (wifi, bluetooth, etc...)
+- No entrar de inmediato a la terminal. Mostrar que puede trabajar como los OS que ya conocen
+- Aprender a leer logs y stacktraces
+- Crear live disk no es dificil pero planear particiones puede serlo
+- Evitar tratar a los comandos como encantamientos y explicar la lógica detrás
+
+## Otros comentarios
+- La parte más dificil de hacer el cambio es el trabajo de convencimiento. una vez que lo pruebas es dificil querer volver
+- Dejar muy clara la distinción entre el sistema operativo, lo particular a una distro, y el Desktop Environment. Hacer notar que si el _look and feel_ no les gusta, la posibilidad de personalización es infinita
+- Una pequeña probada de ricing estaría bien (i.e algunas fotos de /r/unixporn)
+- Un buen punto de entrada a la terminal es instalar paquetes
+- Para principiantes no tiene tanto sentido la distinción entre paquetes que vinieron del Package Manager, Snap, Flatpack, AppImage, etc... Enfoque en pragmatismo en ese lado. Un comentario de las opciones basta
