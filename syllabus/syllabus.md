@@ -66,12 +66,9 @@
 		- Task Management
 			- top
 		- Manejo de paquetes
-			- apt-get update
-			- apt-get upgrade
-			- apt-get install
-			- apt-get remove
-			- apt help
-			- compilar desde source
+			- Instalación de paquetes, remover paquetes,  
+			update/upgrade del sistema de manera distro-agnistic
+			- Comandos de Debian para el manejo de paquetes
 		- Paquetes útiles
 			- GIMP
 			- Inkscape
@@ -122,4 +119,7 @@
 		- Bash-scripting
 		- Awk
 		- Vim (si no se vio el tema 4)
-	- Tiling Window Managers
+	- Ejemplos de Ricing (r/unixporn)
+		- Tiling Window Managers
+			- Un demo del sistema personal de uno  
+			de los instructores y su workflow
