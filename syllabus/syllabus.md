@@ -67,7 +67,7 @@
 			- top
 		- Manejo de paquetes
 			- Instalación de paquetes, remover paquetes,  
-			update/upgrade del sistema de manera distro-agnistic
+			update/upgrade del sistema de manera distro-agnostic
 			- Comandos de Debian para el manejo de paquetes
 		- Paquetes útiles
 			- GIMP
